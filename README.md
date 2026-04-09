@@ -1,6 +1,8 @@
 # MyVoiceTTS
 
-A local Text-to-Speech application that clones your own voice using [F5-TTS](https://github.com/SWivid/F5-TTS), with a Streamlit web interface. Built for generating narration audio from text or documents — ideal for PPT presentations, voiceovers, and more.
+A local Text-to-Speech application that clones my own voice using [F5-TTS](https://github.com/SWivid/F5-TTS), with a Streamlit web interface. Built for generating narration audio from text or documents — ideal for PPT presentations, voiceovers, and more.
+
+Created by VSCode+ClaudeCode
 
 ## Features
 
